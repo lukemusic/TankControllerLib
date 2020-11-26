@@ -5,5 +5,7 @@ var searchData=
   ['print_5fdatetime_37',['print_DateTime',['../classSerial__TC.html#a0861deed998b9cd8512f56457f24f640',1,'Serial_TC']]],
   ['print_5fmac_38',['print_mac',['../classSerial__TC.html#a23c326d6c75bfe208ce819b3ead0807a',1,'Serial_TC']]],
   ['print_5fpid_39',['print_PID',['../classSerial__TC.html#a498c650db81fe09ac63fe9260b3e66a4',1,'Serial_TC']]],
-  ['print_5ftwo_5fdigits_40',['print_two_digits',['../classSerial__TC.html#a48099c90f8bdc656d0ff0fa1da284c8c',1,'Serial_TC']]]
+  ['print_5ftwo_5fdigits_40',['print_two_digits',['../classSerial__TC.html#a48099c90f8bdc656d0ff0fa1da284c8c',1,'Serial_TC']]],
+  ['printdirectory_41',['printDirectory',['../classSDClass__TC.html#add55a67044d2ab039ffc1898dcc4a618',1,'SDClass_TC']]],
+  ['printrootdirectory_42',['printRootDirectory',['../classSDClass__TC.html#af51834590f78eec98cb2724bc5dc2253',1,'SDClass_TC']]]
 ];
